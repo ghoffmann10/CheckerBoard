@@ -1,6 +1,7 @@
 /* 
 Grace Hoffmann
 C++ Fall 2019
+Due: September 12, 2019
 Lab 2B
 A program that displays an 8 by 8 star checkerboard
 */
